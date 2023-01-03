@@ -3,7 +3,7 @@
  
   <h2> I am a recent graduate of Youngstown State University, currently looking for a Job to begin my career in the I.T. Field.</h2>
   
-  <h2> <br/><a href="https://docs.google.com/document/d/1u-rvmJvhur2qrvc6drrsBBcaB09Ya_te/edit?usp=share_link&ouid=106129058940358537408&rtpof=true&sd=true">Current Resume</a></h2>
+  <h2> <br/><a href="https://docs.google.com/document/d/1__9weEWW0YQH8UxjTo17R1DrDAKB_VXL/edit?usp=share_link&ouid=106129058940358537408&rtpof=true&sd=true">Current Resume</a></h2>
   
 <h2>👨‍💻 Projects:</h2>
 
