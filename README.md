@@ -71,7 +71,8 @@
   
 <h2> 🤳 Connect with me:</h2>
 
-  <b> Email: Mttporterbusiness@gmail.com </b>
+  <b> Email: mttporterbusiness@gmail.com </b>
+  <b> Second Email: matthewporter@mtporterbusiness.com </b>
   
   <h2> This page is updated regularly. </h2>
 
