@@ -64,6 +64,8 @@
   
 - [Google Analytics Individual Qualification]()
   - <b> Issued by Google </b>
+ 
+  <h2> Currently, I am working on a few projects as well as preparing for a CompTIA Certification.</h2>
   
 <h2> 🤳 Connect with me:</h2>
 
