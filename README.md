@@ -9,18 +9,39 @@
 
 - <b>Capstone Project</b>
   - [Adapting to Remote Work System Proposal](https://drive.google.com/drive/folders/1pcWBIlbon1t1N5QeHmM41uwUFRloO6eR)
+    - <b> Project was to research, create and present a system proposal. My idea was to choose a company that needs to adapt its workforce to work remotely for my system proposal. This project was presented as if I was presenting to a board of directors. 
+
+Subjects included:
+Cost-Benefit analysis
+Project planning
+Training
+Installation
+Risk Assessment </b>
+  
 - <b>Computer Forensics' Project 1</b>
   - [Forensic Tool Research - PlainSight](https://docs.google.com/document/d/1m8c8X9zEKDNFKI5HjnEoHMTgUgBu05Zx/edit)
+  
+  
 - <b>Computer Forensics' Project 2</b>
   - [Mock Forensics Report](https://docs.google.com/document/d/1xdFZfqkKFvjfVD1OJMq2fU3uuEkUTmSB/edit)
+  
+  
 - <b>Computer Forensics' Project 3</b>
   - [Mock Forensics' Report](https://docs.google.com/document/d/1UTcOWrf2WnzynnPzk-TrD7SxEdNYEb3Y/edit?usp=share_link&ouid=106129058940358537408&rtpof=true&sd=true)
+  
+  
 - <b>Computer Forensics Final Project</b>
   - [Fourth Amendment relation to Computer Forensics](https://drive.google.com/drive/folders/1VmcH6lH3k0-wNW-8BSNHtjuK2xwOOYqh)
+  
+  
 - <b>Information Assurance Project 2</b>
   - [Mass Shooter Prevention Research Paper](https://docs.google.com/document/d/1TLfr7jnCPG4Sm_HH6G4mqFV8KxzVaGBG/edit?usp=sharing&ouid=106129058940358537408&rtpof=true&sd=true)
+  
+  
 - <b>Information Assurance Final Project</b>
   - [The Dark Web Research Paper](https://docs.google.com/document/d/1f5nUnE5oQ3Vok2qMTN6UaYT4YAygOuZC/edit?rtpof=true&sd=true) 
+  
+  
   
 <h2>📃 Certifications</h2>
 
