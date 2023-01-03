@@ -5,6 +5,8 @@
   
   <h2> <br/><a href="https://docs.google.com/document/d/1__9weEWW0YQH8UxjTo17R1DrDAKB_VXL/edit?usp=share_link&ouid=106129058940358537408&rtpof=true&sd=true">Current Resume</a></h2>
   
+  <h2> <br/><a href="">Cover Letter</a></h2>
+  
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Capstone Project</b>
