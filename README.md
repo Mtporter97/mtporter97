@@ -14,8 +14,10 @@
   - [Mock Forensics' Report](https://docs.google.com/document/d/1UTcOWrf2WnzynnPzk-TrD7SxEdNYEb3Y/edit?usp=share_link&ouid=106129058940358537408&rtpof=true&sd=true)
 - <b>Computer Forensics Final Project</b>
   - [Fourth Amendment relation to Computer Forensics](https://drive.google.com/drive/folders/1VmcH6lH3k0-wNW-8BSNHtjuK2xwOOYqh)
-
-
+- <b>Information Assurance Project 2</b>
+  - [Mass Shooter Prevention Research Paper](https://docs.google.com/document/d/1TLfr7jnCPG4Sm_HH6G4mqFV8KxzVaGBG/edit?usp=sharing&ouid=106129058940358537408&rtpof=true&sd=true)
+- <b>Information Assurance Final Project</b>
+ - [The Dark Web Research Paper](https://docs.google.com/document/d/1f5nUnE5oQ3Vok2qMTN6UaYT4YAygOuZC/edit?rtpof=true&sd=true) 
 <h2>📃 Certifications</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
