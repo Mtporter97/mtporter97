@@ -2,6 +2,8 @@
 
   <h3>  UNDER CONSTRUCTION!</h3>
   
+  <h2> Resume: </h2>
+  
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Capstone Project</b>
