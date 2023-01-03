@@ -67,7 +67,7 @@
 - [Google Analytics Individual Qualification]()
   - <b> Issued by Google </b>
  
-<h2> Currently, I am working on a few projects (they will eventually be posted here), as well as preparing for a CompTIA Certification.</h2>
+<h2> Currently, I am working on a few projects (they will eventually be posted here), as well as preparing for the CompTIA Security+ Certification.</h2>
   
 <h2> 🤳 Connect with me:</h2>
 
