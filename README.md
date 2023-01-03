@@ -25,15 +25,22 @@
 
 - [CCNAv7: Introduction to Networks - Cisco Networking Academy 1 - Certificate](https://www.dropbox.com/s/hqccnngneolz399/MatthewPorter-Cisco%20Academy%201%20-certificate.pdf?dl=0)
 - [Cyber Threat Management - Student-Level Credential](https://www.credly.com/badges/c6b90cb8-b18e-4721-a5d5-40043b1af3c9/public_url)
+    - <b> Issued by Cisco </b>
 - [Endpoint Security - Student-Level Credential](https://www.credly.com/badges/00cb618e-9e14-4c8e-870c-4e8e4b7f4739/public_url)
+    - <b> Issued by Cisco </b>
 - [Introduction to Cybersecurity - Student-Level Credential](https://www.credly.com/badges/943e61ee-ea53-42e9-9fbc-48259ab62a5a/public_url)
+    - <b> Issued by Cisco </b>
 - [Network Defense - Student-Level Credential](https://www.credly.com/badges/ebf21d5e-a5fd-4892-b01d-5985f66b42cb/public_url)
+    - <b> Issued by Cisco </b>
 - [Networking Basics - Student-Level Credential](https://www.credly.com/badges/c12f36c2-fca5-4e0f-8cc0-55d3550b4371/public_url)
+    - <b> Issued by Cisco </b>
 - [Networking Devices and Initial Configuration - Student-Level Credential](https://www.credly.com/badges/587cfa9b-bec3-40fe-844c-99f1f4861c00/public_url)
+    - <b> Issued by Cisco </b>
 - [Technical Support Fundamentals](https://coursera.org/share/48bca1e4e0f798e56a6f0c47962a5062)
   - <b> Issued by Google </b>
 - [Google Analytics Individual Qualification]()
-
+  - <b> Issued by Google </b>
+  
 <h2> 🤳 Connect with me:</h2>
 
 
