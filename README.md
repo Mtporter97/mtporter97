@@ -20,13 +20,19 @@
   - [Mass Shooter Prevention Research Paper](https://docs.google.com/document/d/1TLfr7jnCPG4Sm_HH6G4mqFV8KxzVaGBG/edit?usp=sharing&ouid=106129058940358537408&rtpof=true&sd=true)
 - <b>Information Assurance Final Project</b>
   - [The Dark Web Research Paper](https://docs.google.com/document/d/1f5nUnE5oQ3Vok2qMTN6UaYT4YAygOuZC/edit?rtpof=true&sd=true) 
+  
 <h2>📃 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [CCNAv7: Introduction to Networks - Cisco Networking Academy 1 - Certificate](https://www.dropbox.com/s/hqccnngneolz399/MatthewPorter-Cisco%20Academy%201%20-certificate.pdf?dl=0)
+- [Cyber Threat Management - Student-Level Credential](https://www.credly.com/badges/c6b90cb8-b18e-4721-a5d5-40043b1af3c9/public_url)
+- [Endpoint Security - Student-Level Credential](https://www.credly.com/badges/00cb618e-9e14-4c8e-870c-4e8e4b7f4739/public_url)
+- [Introduction to Cybersecurity - Student-Level Credential](https://www.credly.com/badges/943e61ee-ea53-42e9-9fbc-48259ab62a5a/public_url)
+- [Network Defense - Student-Level Credential](https://www.credly.com/badges/ebf21d5e-a5fd-4892-b01d-5985f66b42cb/public_url)
+- [Networking Basics - Student-Level Credential](https://www.credly.com/badges/c12f36c2-fca5-4e0f-8cc0-55d3550b4371/public_url)
+- [Networking Devices and Initial Configuration - Student-Level Credential](https://www.credly.com/badges/587cfa9b-bec3-40fe-844c-99f1f4861c00/public_url)
+- [Technical Support Fundamentals](https://coursera.org/share/48bca1e4e0f798e56a6f0c47962a5062)
+  - <b> Issued by Google </b>
+- [Google Analytics Individual Qualification]()
 
 <h2> 🤳 Connect with me:</h2>
 
