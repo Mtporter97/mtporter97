@@ -8,8 +8,8 @@
   - [Adapting to Remote Work System Proposal](https://drive.google.com/drive/folders/1pcWBIlbon1t1N5QeHmM41uwUFRloO6eR)
 - <b>Computer Forensics' Project 1</b>
   - [Forensic Tool Research - PlainSight](https://docs.google.com/document/d/1m8c8X9zEKDNFKI5HjnEoHMTgUgBu05Zx/edit)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Computer Forensics' Project 2</b>
+  - [Mock Forensics Report](https://docs.google.com/document/d/1xdFZfqkKFvjfVD1OJMq2fU3uuEkUTmSB/edit)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
