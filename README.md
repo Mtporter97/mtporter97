@@ -10,8 +10,7 @@
 - <b>Capstone Project</b>
   - [Adapting to Remote Work System Proposal](https://drive.google.com/drive/folders/1pcWBIlbon1t1N5QeHmM41uwUFRloO6eR)
     - <b> Project was to research, create and present a system proposal. My idea was to choose a company that needs to adapt its workforce to work remotely for my system proposal. This project was presented as if I was presenting to a board of directors. 
-
-Subjects included: Cost-Benefit analysis, Project planning, Training, Installation, Risk Assessment and Project rollout </b>
+        Subjects included: Cost-Benefit analysis, Project planning, Training, Installation, Risk Assessment and Project rollout </b>
   
 - <b>Computer Forensics' Project 1</b>
   - [Forensic Tool Research - PlainSight](https://docs.google.com/document/d/1m8c8X9zEKDNFKI5HjnEoHMTgUgBu05Zx/edit)
