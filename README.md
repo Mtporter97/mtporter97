@@ -10,19 +10,19 @@
 - <b>Capstone Project</b>
   - [Adapting to Remote Work System Proposal](https://drive.google.com/drive/folders/1pcWBIlbon1t1N5QeHmM41uwUFRloO6eR)
     - <b> Project was to research, create and present a system proposal. My idea was to choose a company that needs to adapt its workforce to work remotely for my system proposal. This project was presented as if I was presenting to a board of directors. 
-        Subjects included: Cost-Benefit analysis, Project planning, Training, Installation, Risk Assessment and Project rollout </b>
+        Subjects included: Cost-Benefit analysis, Project planning, Training, Installation, Risk Assessment and Project rollout. </b>
   
 - <b>Computer Forensics' Project 1</b>
   - [Forensic Tool Research - PlainSight](https://docs.google.com/document/d/1m8c8X9zEKDNFKI5HjnEoHMTgUgBu05Zx/edit)
-  
+    - <b> Research paper detailing the Forensic tool known as PlainSight. </b>
   
 - <b>Computer Forensics' Project 2</b>
   - [Mock Forensics Report](https://docs.google.com/document/d/1xdFZfqkKFvjfVD1OJMq2fU3uuEkUTmSB/edit)
-  
+    - <b> Mock forensics' report project. To conduct an efficient and successful investigation, I utilized the forensic tool Autopsy to recover files deleted from the            machines in question. </b>
   
 - <b>Computer Forensics' Project 3</b>
   - [Mock Forensics' Report](https://docs.google.com/document/d/1UTcOWrf2WnzynnPzk-TrD7SxEdNYEb3Y/edit?usp=share_link&ouid=106129058940358537408&rtpof=true&sd=true)
-  
+    - <b> I was tasked to build forensic profiles of two individuals. These forensics profiles will be built upon by using information from the individual’s social             media accounts from various social platforms. To create an in-depth forensic profile, I utilized websites such as social-searcher, social mention, wayback and         uvrx to gather information and determine a forensic profile. </b>
   
 - <b>Computer Forensics Final Project</b>
   - [Fourth Amendment relation to Computer Forensics](https://drive.google.com/drive/folders/1VmcH6lH3k0-wNW-8BSNHtjuK2xwOOYqh)
