@@ -12,12 +12,9 @@
   - [Mock Forensics Report](https://docs.google.com/document/d/1xdFZfqkKFvjfVD1OJMq2fU3uuEkUTmSB/edit)
 - <b>Computer Forensics' Project 3</b>
   - [Mock Forensics' Report](https://docs.google.com/document/d/1UTcOWrf2WnzynnPzk-TrD7SxEdNYEb3Y/edit?usp=share_link&ouid=106129058940358537408&rtpof=true&sd=true)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Computer Forensics Final Project</b>
+  - [Fourth Amendment relation to Computer Forensics](https://drive.google.com/drive/folders/1VmcH6lH3k0-wNW-8BSNHtjuK2xwOOYqh)
+
 
 <h2>📃 Certifications</h2>
 
