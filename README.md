@@ -1,6 +1,6 @@
 <h1>Hi, I'm Matt! <br/><a href="https://github.com/joshmadakor1">BASc Information Technology</a>, <a href="https://www.linkedin.com/in/matthew-porter-ysu/">Graduate of Youngstown State University</a>
-
-  <h3>  UNDER CONSTRUCTION!</h3>
+  
+  <b> Hi, I'm Matt! I am currently looking for a Job to begin my career in the I.T. Field.</b>
   
   <h2> Resume: </h2>
   
@@ -43,6 +43,7 @@
   
 <h2> 🤳 Connect with me:</h2>
 
+  <b> Email: Mttporterbusiness@gmail.com </b>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
