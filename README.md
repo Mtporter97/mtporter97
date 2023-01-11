@@ -42,6 +42,16 @@
         - <b>Sent alerts by various means to allow further investigation of potential compromises.</b>
         - <b>This was done in Windows PowerShell ISE.</b>
         - <b>This was a lab/project I worked on for a little over a month, on a part time basis.</b>
+
+- <b>Ransomware Research</b>
+   - <b>File Integrity Monitor (FIM)</b>
+        - <b>Completed multiple Ransomware experiments over multiple months:</b>
+            - <b>Programs used: Virtual Box, Visual Studio.</b>
+        - <b>Multiple source codes for ransomware, Decrypters and Encrypters tested.</b>
+            - <b>Source codes were in C, C#, C++, and Python.</b>
+        - <b>Tested for strength, weaknesses for the purpose of understanding, dissection of code and how code operates.</b>
+        - <b>Ran all ransomware through many anti-malware engines, this includes sandbox observation and signatures detection to observe detectability of ransomware</b>
+        - <b>THIS PROJECT WAS INTENDED FOR SECURITY RESEARCH AND EDUCATIONAL PURPOSES ONLY.</b>
   
 - <b>Personal Home Media / Remote Access Server</b>
   - <b>Personal Home Media / Remote Access Server</b>
