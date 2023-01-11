@@ -61,7 +61,7 @@
         - <b>THIS PROJECT WAS INTENDED FOR SECURITY RESEARCH AND EDUCATIONAL PURPOSES ONLY.</b>
   
 - <b>Azure Sentinel (SIEM) (Research/Lab)</b>
-   - <b>Keylogger</b>
+   - <b>Research</b>
         - <b>Used custom PowerShell script to extract metadata from Windows Event Viewer to be forwarded to third party API in order to derive geolocation data.</b>
         - <b>Configure Log Analytics Workspace in Azure to ingest custom logs containing geographic information (state/province, country, latitude, longitude).</b>
         - <b>Configured custom fields in Logs Analytics Workspace with the intent of mapping geo data in Azure Sentinel.</b>
@@ -69,7 +69,7 @@
         - <b>This was done by using the free one year trial version of Azure.</b>
   
 - <b>Personal Home Media / Remote Access Server</b>
-  - <b>Personal Home Media / Remote Access Server</b>
+  - <b>Personal Home Server</b>
     - <b> Goals for project:
       - Establish a home media server that anyone in my household can use.
       - Create a on-site / in-house remote access server for friends and family to collaborate with me.
