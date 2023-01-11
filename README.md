@@ -10,6 +10,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Capstone Project</b>
+  <b>August 2022 - December 2022</b>
   - [Adapting to Remote Work System Proposal](https://drive.google.com/drive/folders/1pcWBIlbon1t1N5QeHmM41uwUFRloO6eR)
     - <b> Project was to research, create and present a system proposal. My idea was to choose a company that needs to adapt its workforce to work remotely for my system proposal. This project was presented as if I was presenting to a board of directors. 
         Subjects included: Cost-Benefit analysis, Project planning, Training, Installation, Risk Assessment and Project rollout. </b>
