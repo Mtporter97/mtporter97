@@ -44,7 +44,7 @@
         - <b>This was a lab/project I worked on for a little over a month, on a part time basis.</b>
 
 - <b>Ransomware Research</b>
-   - <b>File Integrity Monitor (FIM)</b>
+   - <b>Research - Experiments</b>
         - <b>Completed multiple Ransomware experiments over multiple months:</b>
             - <b>Programs used: Virtual Box, Visual Studio.</b>
         - <b>Multiple source codes for ransomware, Decrypters and Encrypters tested.</b>
