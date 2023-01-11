@@ -33,7 +33,15 @@
         - <b>Developed automated remediation process to preemptively deal with vulnerabilities stemming from windows updates and third-party software.</b>
         - <b>Some screenshots from my testing are linked for viewing.</b>
         - <b>This project is still ongoing, and may be updated in the future.</b>
-  
+ 
+ - <b>File Integrity Monitor</b>
+  - <b>File Integrity Monitor (FIM)</b>
+        - <b>Created a concept File integrity Monitor (FIM)</b>
+            - <b>Created a integrity baseline of target files/folders using the SHA-512 hashing algorithm.</b>
+        - <b>Continuously made comparison of actual files vs baseline, raised alert if any deviations occurred.</b>
+        - <b>Sent alerts by various means to allow further investigation of potential compromises.</b>
+        - <b>This was done in Windows PowerShell ISE.</b>
+        - <b>This was a lab/project I worked on for a little over a month, on a part time basis.</b>
   
 - <b>Personal Home Media / Remote Access Server</b>
   - <b>Personal Home Media / Remote Access Server</b>
