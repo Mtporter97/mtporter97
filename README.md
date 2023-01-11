@@ -75,7 +75,9 @@
       - Create a on-site / in-house remote access server for friends and family to collaborate with me.
       - implementing and maintaining security of Server once operational.
         - ensuring no unauthorized access is permitted.
-
+      - A moderate amount of bulk storage is wanted.
+        - This will be accessible by anyone who can access the server.
+  
        - Current Project Stage: Project planning & Scope.
 
       This project is a backburner project and will be updated every half year. </b>
