@@ -8,7 +8,7 @@
   <h2> <br/><a href="">Cover Letter</a></h2>
   
   # 💫 About Me:
-🔭 Currently, I am working on a few projects (they will eventually be posted here).<br>🌱 I’m currently preparing for the CompTIA Security+.<br>⚡ Fun fact: I dabble in 3-D printing and Resin making.
+🔭 Currently, I am working on a few projects (they will eventually be posted here).<br>🌱 I’m currently preparing for the CompTIA Security+.<br>⚡ Fun fact: I dabble in 3-D printing and Resin making.<br>😄 Pronouns: He/Him
   
   ## 🌐 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-porter-ysu/) 
