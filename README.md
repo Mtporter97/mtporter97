@@ -24,7 +24,7 @@
 
             - This was tested by utilizing two virtual machines running Windows Server 2019 and Windows 10 Pro ISOs.
 
-            - This test was crucial for me in researching and configuring remote access servers. </b>
+            - This test was crucial for me in researching and configuring remote access servers.</b>
   
 - <b>Personal Home Media / Remote Access Server</b>
   - <b>Personal Home Media / Remote Access Server</b>
