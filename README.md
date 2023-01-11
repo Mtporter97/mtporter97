@@ -15,14 +15,14 @@
         Subjects included: Cost-Benefit analysis, Project planning, Training, Installation, Risk Assessment and Project rollout. </b>
   
 - <b>Running Active Directory (VirtualBox/PowerShell) - Mini Corporate Network</b>
- - [Running Active Directory (VirtualBox/PowerShell) - Mini Corporate Network](https://drive.google.com/drive/folders/1w2AeXxOaGwbUU8-rvmUyIA4yCEAf_BZ0?usp=share_link)
-    - <b>Active Directory Administration</b>
-          - <b>PowerShell: Automated provision, maintaining, and deprovisioning user accounts.</b>
-      - <b>Setting up Remote Access Server (RAS) features to support NAT/PAT.</b>
-      - <b>Implementation and maintenance of windows DNS and DHCP services.</b>
-      - <b>Configuration of Windows File Servers with implementation of quotas and NTFS permissions.</b>
-      - <b>This was tested by utilizing two virtual machines running Windows Server 2019 and Windows 10 Pro ISOs.</b>
-      - <b>This test was crucial for me in researching and configuring remote access servers.</b>
+  - [Active Directory - Mini Corporate Network](https://drive.google.com/drive/folders/1w2AeXxOaGwbUU8-rvmUyIA4yCEAf_BZ0?usp=share_link)
+      - <b>Active Directory Administration</b>
+            - <b>PowerShell: Automated provision, maintaining, and deprovisioning user accounts.</b>
+        - <b>Setting up Remote Access Server (RAS) features to support NAT/PAT.</b>
+        - <b>Implementation and maintenance of windows DNS and DHCP services.</b>
+        - <b>Configuration of Windows File Servers with implementation of quotas and NTFS permissions.</b>
+        - <b>This was tested by utilizing two virtual machines running Windows Server 2019 and Windows 10 Pro ISOs.</b>
+        - <b>This test was crucial for me in researching and configuring remote access servers.</b>
   
 - <b>Personal Home Media / Remote Access Server</b>
   - <b>Personal Home Media / Remote Access Server</b>
