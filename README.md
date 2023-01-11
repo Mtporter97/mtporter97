@@ -14,7 +14,7 @@
   <h2> <br/><a href="">Cover Letter</a></h2>
   
   # 💫 About Me:
-🔭 Currently, I am working on a few projects (they will eventually be posted here).<br>🌱 I’m currently preparing for the CompTIA Security+.<br>⚡ Fun fact: I dabble in 3-D printing and Resin making.<br>😄 Pronouns: He/Him
+🔭 Currently, I am working on a few projects (they will eventually be posted here).<br>🌱 I’m currently preparing for the CompTIA Security+ exam.<br>⚡ Fun fact: I dabble in 3-D printing and Resin making.<br>😄 Pronouns: He/Him
 
  <h2>🌐 How to Reach Me:</h2>
 
