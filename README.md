@@ -11,7 +11,7 @@
 🔭 Currently, I am working on a few projects (they will eventually be posted here).<br>🌱 I’m currently preparing for the CompTIA Security+ Certification..<br>⚡ Fun fact: I dabble in 3-D printing and Resin making.
   
   ## 🌐 Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matthew-porter-ysu/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-porter-ysu/) 
   
   <h2> 🤳 Emails:</h2>
 
