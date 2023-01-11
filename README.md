@@ -60,6 +60,14 @@
         - <b>Experimenting with remote delivery of keylogger and logs automatically emailed from keylogged devices.</b>
         - <b>THIS PROJECT WAS INTENDED FOR SECURITY RESEARCH AND EDUCATIONAL PURPOSES ONLY.</b>
   
+- <b>Azure Sentinel (SIEM) (Research/Lab)</b>
+   - <b>Keylogger</b>
+        - <b>Used custom PowerShell script to extract metadata from Windows Event Viewer to be forwarded to third party API in order to derive geolocation data.</b>
+        - <b>Configure Log Analytics Workspace in Azure to ingest custom logs containing geographic information (state/province, country, latitude, longitude).</b>
+        - <b>Configured custom fields in Logs Analytics Workspace with the intent of mapping geo data in Azure Sentinel.</b>
+        - <b>Configured Azure Sentinel (Microsoft's Cloud SIEM) workbook to display global attack data (RDP brute force) on world map according to physical location and magnitude of attacks.</b>
+        - <b>This was done by using the free one year trial version of Azure.</b>
+  
 - <b>Personal Home Media / Remote Access Server</b>
   - <b>Personal Home Media / Remote Access Server</b>
     - <b> Goals for project:
