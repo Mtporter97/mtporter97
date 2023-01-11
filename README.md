@@ -17,7 +17,7 @@
 - <b>Running Active Directory (VirtualBox/PowerShell) - Mini Corporate Network</b>
  - [Running Active Directory (VirtualBox/PowerShell) - Mini Corporate Network](https://drive.google.com/drive/folders/1w2AeXxOaGwbUU8-rvmUyIA4yCEAf_BZ0?usp=share_link)
   - <b>Active Directory Administration</b>
-      - <b>PowerShell: Automated provision, maintaining, and deprovisioning user accounts.</b>
+        - <b>PowerShell: Automated provision, maintaining, and deprovisioning user accounts.</b>
     - <b>Setting up Remote Access Server (RAS) features to support NAT/PAT.</b>
     - <b>Implementation and maintenance of windows DNS and DHCP services.</b>
     - <b>Configuration of Windows File Servers with implementation of quotas and NTFS permissions.</b>
