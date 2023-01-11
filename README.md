@@ -1,7 +1,5 @@
 <h1>Hello! ✌️🖖🤞🤙🤘🎓</h1>
 
-## ![banner (2)](https://user-images.githubusercontent.com/121512491/211915594-e4049462-199b-4bbc-a7dd-650e843424d5.png)
-
 <p>Welcome to my page!</p>
 
 <p>My name is Matthew Porter! <a href="https://catalog.ysu.edu/undergraduate/colleges-programs/college-science-technology-engineering-mathematics/department-computer-science-information-systems/bsas-information-technology/">BASc Information Technology</a>, <a href="https://www.linkedin.com/in/matthew-porter-ysu/">Graduate of Youngstown State University.</a></p>
