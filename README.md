@@ -24,8 +24,8 @@
         - <b>This was tested by utilizing two virtual machines running Windows Server 2019 and Windows 10 Pro ISOs.</b>
         - <b>This test was crucial for me in researching and configuring remote access servers.</b>
   
-  - <b>Vulnerability Management with Nessus Essentials</b>
-  - [Vulnerability Management](https://drive.google.com/drive/folders/1GLIReSKU_ObLtKCpeR7oKM4TaxtGVArg?usp=share_link)
+- <b>Vulnerability Management with Nessus Essentials</b>
+   - [Vulnerability Management](https://drive.google.com/drive/folders/1GLIReSKU_ObLtKCpeR7oKM4TaxtGVArg?usp=share_link)
         - <b>Installed and configured Nessus Essentials to preform credential vulnerability scans against Windows 10 Hosts.</b>
         - <b>Implemented Vulnerability Management Function on sandbox networks:</b>
             - <b>Discover, Prioritize, Assess, Report, Remediate, Verify.</b>
