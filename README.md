@@ -15,8 +15,8 @@
   
   <h2> 🤳 Or Email Me:</h2>
 
-  <b> Primary Email: matthewporter@mtporterbusiness.com </b>
-  <b> Secondary Email: mttporterbusiness@gmail.com </b>
+  - <b> Primary Email: matthewporter@mtporterbusiness.com </b>
+  - <b> Secondary Email: mttporterbusiness@gmail.com </b>
   
 <h2>👨‍💻 Projects:</h2>
 
