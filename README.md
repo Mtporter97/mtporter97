@@ -22,7 +22,7 @@
       - implementing and maintaining security of Server once operational.
         - ensuring no unauthorized access is permitted.
 
-       Current Project Stage: Project planning & Scope.
+       - Current Project Stage: Project planning & Scope.
 
       This project is a backburner project and will be updated every half year. </b>
   
