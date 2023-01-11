@@ -7,7 +7,7 @@
   
   <h2> <br/><a href="">Cover Letter</a></h2>
   
-  ## 🌐 Socials:
+  ## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matthew-porter-ysu/) 
   
 <h2>👨‍💻 Projects:</h2>
