@@ -1,6 +1,6 @@
 <h1>Hello! ✌️🖖🤞🤙🤘🎓</h1>
 
-![banner (2)](https://user-images.githubusercontent.com/121512491/211915594-e4049462-199b-4bbc-a7dd-650e843424d5.png)
+## ![banner (2)](https://user-images.githubusercontent.com/121512491/211915594-e4049462-199b-4bbc-a7dd-650e843424d5.png)
 
 <p>Welcome to my page!</p>
 
