@@ -35,7 +35,7 @@
         - <b>This project is still ongoing, and may be updated in the future.</b>
  
 - <b>File Integrity Monitor</b>
-  - <b>File Integrity Monitor (FIM)</b>
+   - <b>File Integrity Monitor (FIM)</b>
         - <b>Created a concept File integrity Monitor (FIM)</b>
             - <b>Created a integrity baseline of target files/folders using the SHA-512 hashing algorithm.</b>
         - <b>Continuously made comparison of actual files vs baseline, raised alert if any deviations occurred.</b>
