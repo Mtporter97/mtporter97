@@ -7,6 +7,9 @@
   
   <h2> <br/><a href="">Cover Letter</a></h2>
   
+  ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matthew-porter-ysu/) 
+  
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Capstone Project</b>
@@ -143,9 +146,6 @@
   <b> Second Email: mttporterbusiness@gmail.com </b>
   
   <h2> This page is updated regularly. </h2>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matthew-porter-ysu/) 
 <!--
 **mtporter97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
