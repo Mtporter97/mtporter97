@@ -17,14 +17,14 @@
 - <b>Personal Home Media / Remote Access Server</b>
   - <b>Personal Home Media / Remote Access Server</b>
     - <b> Goals for project:
-- Establish a home media server that anyone in my household can use.
-- Create a on-site / in-house remote access server for friends and family to collaborate with me.
-- implementing and maintaining security of Server once operational.
----- ensuring no unauthorized access is permitted.
+      - Establish a home media server that anyone in my household can use.
+      - Create a on-site / in-house remote access server for friends and family to collaborate with me.
+      - implementing and maintaining security of Server once operational.
+        - ensuring no unauthorized access is permitted.
 
-Current Project Stage: Project planning & Scope.
+       Current Project Stage: Project planning & Scope.
 
-This project is a backburner project and will be updated every half year. </b>
+      This project is a backburner project and will be updated every half year. </b>
   
 - <b>Computer Forensics' Project 1</b>
   - [Forensic Tool Research - PlainSight](https://docs.google.com/document/d/1m8c8X9zEKDNFKI5HjnEoHMTgUgBu05Zx/edit)
