@@ -53,6 +53,13 @@
         - <b>Ran all ransomware through many anti-malware engines, this includes sandbox observation and signatures detection to observe detectability of ransomware</b>
         - <b>THIS PROJECT WAS INTENDED FOR SECURITY RESEARCH AND EDUCATIONAL PURPOSES ONLY.</b>
   
+- <b>Keylogger with C# (Research)</b>
+   - <b>Keylogger</b>
+        - <b>Experimented with keyloggers to identify strengths and weaknesses.</b>
+        - <b>Was able to customize several C# source codes with multiple different parameters for keyloggers.</b>
+        - <b>Experimenting with remote delivery of keylogger and logs automatically emailed from keylogged devices.</b>
+        - <b>THIS PROJECT WAS INTENDED FOR SECURITY RESEARCH AND EDUCATIONAL PURPOSES ONLY.</b>
+  
 - <b>Personal Home Media / Remote Access Server</b>
   - <b>Personal Home Media / Remote Access Server</b>
     - <b> Goals for project:
