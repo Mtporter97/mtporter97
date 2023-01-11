@@ -10,6 +10,11 @@
   ## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matthew-porter-ysu/) 
   
+  <h2> 🤳 Emails:</h2>
+
+  <b> Primary Email: matthewporter@mtporterbusiness.com </b>
+  <b> Secondary Email: mttporterbusiness@gmail.com </b>
+  
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Capstone Project</b>
