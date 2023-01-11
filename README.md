@@ -13,7 +13,7 @@
   ## 🌐 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-porter-ysu/) 
   
-  <h2> 🤳 Or email me!:</h2>
+  <h2> 🤳 Or email me:</h2>
 
   <b> Primary Email: matthewporter@mtporterbusiness.com </b>
   <b> Secondary Email: mttporterbusiness@gmail.com </b>
