@@ -77,10 +77,10 @@
         - ensuring no unauthorized access is permitted.
       - A moderate amount of bulk storage is wanted.
         - This will be accessible by anyone who can access the server.
-  
-  - Current Project Stage: Project planning & Scope.
 
       This project is a backburner project and will be updated every half year. </b>
+  
+  - <u>Current Project Stage: Project planning & Scope.</u>
   
 - <b>Computer Forensics' Project 1</b>
   - [Forensic Tool Research - PlainSight](https://docs.google.com/document/d/1m8c8X9zEKDNFKI5HjnEoHMTgUgBu05Zx/edit)
