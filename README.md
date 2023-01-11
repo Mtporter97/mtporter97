@@ -10,10 +10,21 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Capstone Project</b>
-  - <b>August 2022 - December 2022</b>
   - [Adapting to Remote Work System Proposal](https://drive.google.com/drive/folders/1pcWBIlbon1t1N5QeHmM41uwUFRloO6eR)
     - <b> Project was to research, create and present a system proposal. My idea was to choose a company that needs to adapt its workforce to work remotely for my system proposal. This project was presented as if I was presenting to a board of directors. 
         Subjects included: Cost-Benefit analysis, Project planning, Training, Installation, Risk Assessment and Project rollout. </b>
+  
+- <b>Personal Home Media / Remote Access Server</b>
+  - <b>Personal Home Media / Remote Access Server</b>
+    - <b> Goals for project:
+- Establish a home media server that anyone in my household can use.
+- Create a on-site / in-house remote access server for friends and family to collaborate with me.
+- implementing and maintaining security of Server once operational.
+---- ensuring no unauthorized access is permitted.
+
+Current Project Stage: Project planning & Scope.
+
+This project is a backburner project and will be updated every half year. </b>
   
 - <b>Computer Forensics' Project 1</b>
   - [Forensic Tool Research - PlainSight](https://docs.google.com/document/d/1m8c8X9zEKDNFKI5HjnEoHMTgUgBu05Zx/edit)
