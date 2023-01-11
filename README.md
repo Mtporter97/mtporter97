@@ -2,7 +2,7 @@
 
 <p>Welcome to my page!</p>
 
-<p>My name is Matthew Porter! <a href="https://catalog.ysu.edu/undergraduate/colleges-programs/college-science-technology-engineering-mathematics/department-computer-science-information-systems/bsas-information-technology/">BASc Information Technology</a>, <a href="https://www.linkedin.com/in/matthew-porter-ysu/">Graduate of Youngstown State University.</a></p>
+<p>My name is Matthew Porter, <a href="https://catalog.ysu.edu/undergraduate/colleges-programs/college-science-technology-engineering-mathematics/department-computer-science-information-systems/bsas-information-technology/">BASc Information Technology</a>, <a href="https://www.linkedin.com/in/matthew-porter-ysu/">Graduate of Youngstown State University.</a></p>
   
  
   <p> I am a recent graduate of Youngstown State University, currently looking for a Job to begin my career in the I.T. Field.</p>
