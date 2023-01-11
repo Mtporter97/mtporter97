@@ -122,7 +122,7 @@
   
   
   
-<h2>📃 Certifications</h2>
+<h2>📃 Certificates</h2>
 
 - [CCNAv7: Introduction to Networks - Cisco Networking Academy 1 - Certificate](https://www.dropbox.com/s/hqccnngneolz399/MatthewPorter-Cisco%20Academy%201%20-certificate.pdf?dl=0)
   
