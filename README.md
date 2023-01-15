@@ -49,7 +49,7 @@
 
 - <b>Detection and Monitoring Homelab</b>
    - <b>Detection and Monitoring</b>
-        - <b>Multiple virtual machines to simulate a larger scale infrastructure to learn and practice detection and monitoring in a safe environment.</b>
+        - <b>Configured multiple virtual machines to simulate a larger scale infrastructure to learn and practice detection and monitoring in a safe environment.</b>
             - <b>Configured pfSense firewall for Network Segmentation & Security.</b>
             - <b>Configured Security Onion as an all-in-one IDS, Security Monitoring, and Log Management solution.</b>
             - <b>Configured Kali Linux as an attack machine.</b>
