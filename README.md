@@ -55,7 +55,7 @@
             - <b>Configured Kali Linux as an attack machine.</b>
             - <b>Configured a Windows Server as a Domain Controller.</b>
             - <b>Configured Splunk.</b>
-        - <b>This was a fun project that I configured and set up with guidance I found online. I learned a lot from this project, lots of hands-on experience. This project also helped me prepare for my final semester of college.</b>
+        - <b>This was a fun project that I configured and set up with guidance I found online. I learned a lot from this project, lots of hands-on experience. This project also helped me prepare for my final semester of university.</b>
         
 - <b>File Integrity Monitor</b>
    - <b>File Integrity Monitor (FIM)</b>
