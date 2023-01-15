@@ -46,7 +46,17 @@
         - <b>Developed automated remediation process to preemptively deal with vulnerabilities stemming from windows updates and third-party software.</b>
         - <b>Some screenshots from my testing are linked for viewing.</b>
         - <b>This project is still ongoing, and may be updated in the future.</b>
- 
+
+- <b>Detection and Monitoring Homelab</b>
+   - <b>Detection and Monitoring</b>
+        - <b>Multiple virtual machines to simulate a larger scale infrastructure to learn and practice detection and monitoring in a safe environment.</b>
+            - <b>Configured pfSense firewall for Network Segmentation & Security.</b>
+            - <b>Configured Security Onion as an all-in-one IDS, Security Monitoring, and Log Management solution.</b>
+            - <b>Configured Kali Linux as an attack machine.</b>
+            - <b>Configured a Windows Server as a Domain Controller.</b>
+            - <b>Configured Splunk.</b>
+        - <b>This was a fun project that I configured and set up with guidance I found online. I learned a lot from this project, lots of hands-on experience. This project also helped me prepare for my final semester of college.</b>
+        
 - <b>File Integrity Monitor</b>
    - <b>File Integrity Monitor (FIM)</b>
         - <b>Created a concept File integrity Monitor (FIM)</b>
