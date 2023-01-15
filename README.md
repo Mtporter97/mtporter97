@@ -132,6 +132,8 @@
   
 <h2>📃 Certificates</h2>
 
+- [Google IT Support Professional Certificate](https://www.credly.com/badges/fcb79ac1-302a-4eea-8d6a-79b693bb4a30/public_url)
+
 - [CCNAv7: Introduction to Networks - Cisco Networking Academy 1 - Certificate](https://www.dropbox.com/s/hqccnngneolz399/MatthewPorter-Cisco%20Academy%201%20-certificate.pdf?dl=0)
   
 - [Cyber Threat Management - Student-Level Credential](https://www.credly.com/badges/c6b90cb8-b18e-4721-a5d5-40043b1af3c9/public_url)
