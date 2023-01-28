@@ -100,7 +100,7 @@
         - ensuring no unauthorized access is permitted.
       - A moderate amount of bulk storage is wanted.
 
-      This project is a backburner project and will be updated on a bi-yearly basis.</b>
+      This project is a backburner project and will be updated on a bi-annual basis.</b>
   
   - <u>Current Project Stage: Project planning & Scope.</u>
   
