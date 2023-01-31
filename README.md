@@ -47,7 +47,7 @@
         - <b>Some screenshots from my testing are linked for viewing.</b>
         - <b>This project is still ongoing, and may be updated in the future.</b>
 
-- <b>Detection and Monitoring Homelab</b>
+- <b>Detection and Monitoring</b>
    - <b>Detection and Monitoring</b>
         - <b>Configured multiple virtual machines to simulate a larger scale infrastructure to learn and practice detection and monitoring in a safe environment.</b>
             - <b>Configured pfSense firewall for Network Segmentation & Security.</b>
@@ -57,7 +57,7 @@
             - <b>Configured Splunk.</b>
         - <b>This was a fun project that I configured and set up with guidance I found online. I learned a lot from this project, lots of hands-on experience. This project also helped me prepare for my final semester of university.</b>
         
-- <b>File Integrity Monitor Homelab</b>
+- <b>File Integrity Monitor</b>
    - <b>File Integrity Monitor (FIM)</b>
         - <b>Created a concept File integrity Monitor (FIM)</b>
             - <b>Created a integrity baseline of target files/folders using the SHA-512 hashing algorithm.</b>
@@ -66,7 +66,7 @@
         - <b>This was done in Windows PowerShell ISE.</b>
         - <b>This was a lab/project I worked on for a little over a month, on a part time basis.</b>
 
-- <b>Ransomware Research/Homelab</b>
+- <b>Ransomware Research</b>
    - <b>Research - Experiments</b>
         - <b>Completed multiple Ransomware experiments over multiple months:</b>
             - <b>Programs used: Virtual Box, Visual Studio.</b>
@@ -76,7 +76,7 @@
         - <b>Ran all ransomware through many anti-malware engines, this includes sandbox observation and signatures detection to observe detectability of ransomware</b>
         - <b>THIS PROJECT WAS INTENDED FOR SECURITY RESEARCH AND EDUCATIONAL PURPOSES ONLY.</b>
   
-- <b>Keylogger with C# (Research/Homelab)</b>
+- <b>Keylogger with C# (Research)</b>
    - <b>Keylogger</b>
         - <b>Experimented with keyloggers to identify strengths and weaknesses.</b>
         - <b>Was able to customize several C# source codes with multiple different parameters for keyloggers.</b>
