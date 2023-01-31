@@ -57,7 +57,7 @@
             - <b>Configured Splunk.</b>
         - <b>This was a fun project that I configured and set up with guidance I found online. I learned a lot from this project, lots of hands-on experience. This project also helped me prepare for my final semester of university.</b>
         
-- <b>File Integrity Monitor</b>
+- <b>File Integrity Monitor Homelab</b>
    - <b>File Integrity Monitor (FIM)</b>
         - <b>Created a concept File integrity Monitor (FIM)</b>
             - <b>Created a integrity baseline of target files/folders using the SHA-512 hashing algorithm.</b>
@@ -66,7 +66,7 @@
         - <b>This was done in Windows PowerShell ISE.</b>
         - <b>This was a lab/project I worked on for a little over a month, on a part time basis.</b>
 
-- <b>Ransomware Research</b>
+- <b>Ransomware Research/Homelab</b>
    - <b>Research - Experiments</b>
         - <b>Completed multiple Ransomware experiments over multiple months:</b>
             - <b>Programs used: Virtual Box, Visual Studio.</b>
@@ -76,14 +76,14 @@
         - <b>Ran all ransomware through many anti-malware engines, this includes sandbox observation and signatures detection to observe detectability of ransomware</b>
         - <b>THIS PROJECT WAS INTENDED FOR SECURITY RESEARCH AND EDUCATIONAL PURPOSES ONLY.</b>
   
-- <b>Keylogger with C# (Research)</b>
+- <b>Keylogger with C# (Research/Homelab)</b>
    - <b>Keylogger</b>
         - <b>Experimented with keyloggers to identify strengths and weaknesses.</b>
         - <b>Was able to customize several C# source codes with multiple different parameters for keyloggers.</b>
         - <b>Experimenting with remote delivery of keylogger and logs automatically emailed from keylogged devices.</b>
         - <b>THIS PROJECT WAS INTENDED FOR SECURITY RESEARCH AND EDUCATIONAL PURPOSES ONLY.</b>
   
-- <b>Azure Sentinel (SIEM) (Research/Lab)</b>
+- <b>Azure Sentinel (SIEM) (Research/Homelab)</b>
    - <b>Research</b>
         - <b>Used custom PowerShell script to extract metadata from Windows Event Viewer to be forwarded to third party API in order to derive geolocation data.</b>
         - <b>Configure Log Analytics Workspace in Azure to ingest custom logs containing geographic information (state/province, country, latitude, longitude).</b>
