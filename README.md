@@ -9,7 +9,7 @@
  
   <p> I am a recent graduate of Youngstown State University, currently looking for a Job to begin my career in the I.T. Field.</p>
   
-  <h2> <br/><a href="https://docs.google.com/document/d/10r_10yACzCfC9M39GG9uMIGW2ifuSMe3/edit?usp=share_link&ouid=106129058940358537408&rtpof=true&sd=true">Current Resume</a></h2>
+  <h2> <br/><a href="https://docs.google.com/document/d/1nzKjvPMDYWvzGDKezkNHETYIETVs62Fv/edit?usp=share_link&ouid=106129058940358537408&rtpof=true&sd=true">Current Resume</a></h2>
   
   # 💫 About Me:
 🔭 Currently, I am working on a few projects (they will eventually be posted here).<br>🌱 I’m currently preparing for the Microsoft SC-900 Exam.<br>⚡ Fun fact: I dabble in 3-D Printing and Resin making.<br>😄 Pronouns: He/Him
