@@ -143,7 +143,7 @@
  
 - <b> Qualys Certified Specialist </b>
     - <b> Various Qualys Certification courses I took online. </b>
-    - <b> Subjects include Endpoint Detection and Response, Vulnerability Management, Policy Compliance and Container Security. </b>
+      - <b> Subjects include Endpoint Detection and Response, Vulnerability Management, Policy Compliance and Container Security. </b>
     - <b> Issued by Qualys </b>
  
 <h2>📃 Certificates</h2>
