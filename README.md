@@ -142,7 +142,7 @@
     - <b> Issued by Fortinet </b>
  
 - <b> Qualys Certified Specialist </b>
-    - <b> various Qualys Certification courses I took online. </b>P </b>
+    - <b> Various Qualys Certification courses I took online. </b>
     - <b> Subjects include Endpoint Detection and Response, Vulnerability Management, Policy Compliance and Container Security. </b>
     - <b> Issued by Qualys </b>
  
