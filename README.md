@@ -141,6 +141,8 @@
     - <b> Credential ID: KVsGAlztJa </b>
     - <b> Issued by Fortinet </b>
  
+ - [Qualys Certified Specialist]()
+    - <b> Issued by Qualys </b>
  
 <h2>📃 Certificates</h2>
 
@@ -149,6 +151,15 @@
 - [CCNAv7: Introduction to Networks - Cisco Networking Academy 1](https://www.dropbox.com/s/hqccnngneolz399/MatthewPorter-Cisco%20Academy%201%20-certificate.pdf?dl=0)
 
 - [Policy Compliance - Foundation](https://drive.google.com/file/d/1y1n0-zxeB7BN_bPT5MyjD9xkm7vXubHf/view?usp=share_link)
+    - <b> Issued by Qualys </b>
+
+- [Vulnerability Management - Foundation](https://drive.google.com/file/d/1u57b_7hq4q4cWHZwm4hUg7WG4xHTH-DN/view?usp=share_link)
+    - <b> Issued by Qualys </b>
+
+- [PCI Compliance - Foundation](https://drive.google.com/file/d/1y1n0-zxeB7BN_bPT5MyjD9xkm7vXubHf/view?usp=share_link)
+    - <b> Issued by Qualys </b>
+
+- [Endpoint Detection and Response (EDR) - Foundation](https://drive.google.com/file/d/1ulq60Wc2BA4RzKvmQ26YMqpABQeePNop/view?usp=share_link)
     - <b> Issued by Qualys </b>
  
 - [Cybersecurity Pathway](https://www.credly.com/badges/33784579-0e94-43c9-a592-c4d895bb02f2/public_url)
@@ -174,9 +185,15 @@
   
 - [Networking Devices and Initial Configuration](https://www.credly.com/badges/587cfa9b-bec3-40fe-844c-99f1f4861c00/public_url)
     - <b> Issued by Cisco </b>
+
+- [Cyber Security Base 2022]()
+    - <b> Issued by Research Group of the University of Helsinki </b>
   
-- [Technical Support Fundamentals](https://coursera.org/share/48bca1e4e0f798e56a6f0c47962a5062)
-  - <b> Issued by Google </b>
+- [Quality Assurance]()
+  - <b> Issued by freeCodeCamp </b>
+
+- [Information Security]()
+  - <b> Issued by freeCodeCamp </b>
   
 - [Google Analytics Individual Qualification]()
   - <b> Issued by Google </b>
