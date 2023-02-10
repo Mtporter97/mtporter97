@@ -7,7 +7,7 @@
 <p>My name is Matthew Porter, <a href="https://catalog.ysu.edu/undergraduate/colleges-programs/college-science-technology-engineering-mathematics/department-computer-science-information-systems/bsas-information-technology/">BASc Information Technology</a>, <a href="https://www.linkedin.com/in/matthew-porter-ysu/">Graduate of Youngstown State University.</a></p>
   
  
-  <p> I am a recent graduate of Youngstown State University, currently looking for a Job to begin my career in the I.T. Field.</p>
+  <p> I am a recent graduate of Youngstown State University,</p>
   
   <h2> <br/><a href="https://docs.google.com/document/d/1nzKjvPMDYWvzGDKezkNHETYIETVs62Fv/edit?usp=share_link&ouid=106129058940358537408&rtpof=true&sd=true">Current Resume</a></h2>
   
