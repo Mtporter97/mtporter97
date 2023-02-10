@@ -20,6 +20,25 @@
   - <b> Secondary Email: mttporterbusiness@gmail.com </b>
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-porter-ysu/)
   
+  <h2>📃 Certifications</h2>
+
+- [NSE 1 Network Security Associate](https://drive.google.com/file/d/1ooIOChjfS2FdoPmHd6daNtyMtzJFv7KY/view?usp=share_link)
+    - <b> Credential ID: P7n9WSYZFE </b>
+    - <b> Issued by Fortinet </b>
+ 
+- [NSE 2 Network Security Associate](https://drive.google.com/file/d/1SkzcAtx6__gv5z8bSW7K77vzbrzyZLKB/view?usp=share_link)
+    - <b> Credential ID: fxPEGqmguF </b>
+    - <b> Issued by Fortinet </b>
+ 
+- [NSE 3 Network Security Associate](https://drive.google.com/file/d/13nO5p2wHnVwX0cTfmB4OB5D13IOAC1hr/view?usp=share_link)
+    - <b> Credential ID: KVsGAlztJa </b>
+    - <b> Issued by Fortinet </b>
+ 
+- <b> Qualys Certified Specialist </b>
+    - <b> Various Qualys Certification courses I took online. </b>
+      - <b> Subjects include Endpoint Detection and Response, Vulnerability Management, Policy Compliance and Container Security. </b>
+    - <b> Issued by Qualys </b>
+  
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Capstone Project</b>
@@ -126,25 +145,6 @@
   
 - <b>Information Assurance Final Project</b>
   - [The Dark Web Research Paper](https://docs.google.com/document/d/1f5nUnE5oQ3Vok2qMTN6UaYT4YAygOuZC/edit?rtpof=true&sd=true)
-
-<h2>📃 Certifications</h2>
-
-- [NSE 1 Network Security Associate](https://drive.google.com/file/d/1ooIOChjfS2FdoPmHd6daNtyMtzJFv7KY/view?usp=share_link)
-    - <b> Credential ID: P7n9WSYZFE </b>
-    - <b> Issued by Fortinet </b>
- 
-- [NSE 2 Network Security Associate](https://drive.google.com/file/d/1SkzcAtx6__gv5z8bSW7K77vzbrzyZLKB/view?usp=share_link)
-    - <b> Credential ID: fxPEGqmguF </b>
-    - <b> Issued by Fortinet </b>
- 
-- [NSE 3 Network Security Associate](https://drive.google.com/file/d/13nO5p2wHnVwX0cTfmB4OB5D13IOAC1hr/view?usp=share_link)
-    - <b> Credential ID: KVsGAlztJa </b>
-    - <b> Issued by Fortinet </b>
- 
-- <b> Qualys Certified Specialist </b>
-    - <b> Various Qualys Certification courses I took online. </b>
-      - <b> Subjects include Endpoint Detection and Response, Vulnerability Management, Policy Compliance and Container Security. </b>
-    - <b> Issued by Qualys </b>
  
 <h2>📃 Certificates</h2>
 
