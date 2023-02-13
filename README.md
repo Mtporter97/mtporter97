@@ -34,11 +34,6 @@
 - [NSE 3 Network Security Associate](https://drive.google.com/file/d/13nO5p2wHnVwX0cTfmB4OB5D13IOAC1hr/view?usp=share_link)
     - <b> Credential ID: KVsGAlztJa </b>
     - <b> Issued by Fortinet </b>
- 
-- <b> Qualys Certified Specialist </b>
-    - <b> Various Qualys Certification courses I took online. </b>
-      - <b> Subjects include Endpoint Detection and Response, Vulnerability Management, Policy Compliance and Container Security. </b>
-    - <b> Issued by Qualys </b>
   
 <h2>👨‍💻 Projects:</h2>
 
