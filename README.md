@@ -146,8 +146,12 @@
 <h2>📃 Certificates</h2>
 
 - [Google IT Support](https://www.credly.com/badges/fcb79ac1-302a-4eea-8d6a-79b693bb4a30/public_url)
+     - <b> Issued by Coursera </b>
+     - <b> "Those who earn the Google IT Support Certificate have completed five-courses, developed by Google, that include hands-on, practice-based assessments and               are designed to prepare them for entry-level roles in IT support. They are competent in foundational skills, including troubleshooting and customer                     service, networking, operating systems, system administration, and security." </b>
 
 - [CCNAv7: Introduction to Networks - Cisco Networking Academy 1](https://www.dropbox.com/s/hqccnngneolz399/MatthewPorter-Cisco%20Academy%201%20-certificate.pdf?dl=0)
+    - <b> Issued by Cisco </b>
+    - <b> This was when Cisco Network Academy was only two segments, not three segments. </b>
 
 - [Policy Compliance - Foundation](https://drive.google.com/file/d/1y1n0-zxeB7BN_bPT5MyjD9xkm7vXubHf/view?usp=share_link)
     - <b> Issued by Qualys </b>
