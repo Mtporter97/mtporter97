@@ -21,6 +21,7 @@
   <h2>📃 Certifications</h2>
   
   - [(ISC)² Certified in Cybersecurity℠ (CC)](https://www.credly.com/badges/de8139e8-5a3e-4ad8-b50b-9eedda79e092/public_url)
+    - <b> Credential ID: 1496053 </b>
     - <b> Issued by (ISC)² </b>
 
 - [NSE 1 Network Security Associate](https://drive.google.com/file/d/1ooIOChjfS2FdoPmHd6daNtyMtzJFv7KY/view?usp=share_link)
