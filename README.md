@@ -10,7 +10,7 @@
   <p> Most recently, I have attained the (ISC)² Certified in Cybersecurity Certification from (ISC)². </p>
   
   # 💫 About Me:
-🔭 Currently, I am working on a few certifications.<br>🌱 I’m currently preparing for the Microsoft SC-900 Exam.<br>⚡ Fun fact: I dabble in 3-D Printing and Resin making.<br>😄 Pronouns: He/Him
+🔭 Currently, I am working on a few certifications.<br>🌱 I am currently preparing for the Microsoft SC-900 Exam.<br>⚡ Fun fact: I dabble in 3-D Printing and Resin making.<br>😄 Pronouns: He/Him
 
  <h2>🌐 How to Reach Me:</h2>
 
