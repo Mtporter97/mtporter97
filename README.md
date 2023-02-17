@@ -38,6 +38,11 @@
   
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Microsoft Learn</b>
+  - [Microsoft Learn 30 Day Cloud Skills Challenge: Information Protection Administrator]()
+    - <b> I participated in Microsoft Learn's 30 day Cloud Skills Challenge, particularly the Information Protection Administrator path.
+      "Build your skillset to meet the developing needs of your organization. In about 10 hours you’ll learn to create policies and rules for content classification, data loss prevention, governance, and protection with Microsoft 365 information protection services." </b>
+
 - <b>Capstone Project</b>
   - [Adapting to Remote Work System Proposal](https://drive.google.com/drive/folders/1pcWBIlbon1t1N5QeHmM41uwUFRloO6eR)
     - <b> Project was to research, create and present a system proposal. My idea was to choose a company that needs to adapt its workforce to work remotely for my system proposal. This project was presented as if I was presenting to a board of directors. 
