@@ -7,7 +7,7 @@
 <p>My name is Matthew Porter, <a href="https://catalog.ysu.edu/undergraduate/colleges-programs/college-science-technology-engineering-mathematics/department-computer-science-information-systems/bsas-information-technology/">BSIT Information Technology</a>, <a href="https://www.linkedin.com/in/matthew-porter-ysu/">Graduate of Youngstown State University.</a></p>
   
  
-  <p> Most recently, I have attained the (ISC)² Certified in Cybersecurity Certification. </p>
+  <p> Most recently, I have attained the (ISC)² Certified in Cybersecurity Certification from (ISC)². </p>
   
   # 💫 About Me:
 🔭 Currently, I am working on a few certifications.<br>🌱 I’m currently preparing for the Microsoft SC-900 Exam.<br>⚡ Fun fact: I dabble in 3-D Printing and Resin making.<br>😄 Pronouns: He/Him
