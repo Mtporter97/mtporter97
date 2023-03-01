@@ -20,6 +20,10 @@
   
   <h2>📃 Certifications</h2>
   
+  - [Microsoft Certified: Security, Compliance, and Identity Fundamentals]()
+    - <b> Credential ID:  </b>
+    - <b> Issued by Microsoft </b>
+  
   - [(ISC)² Certified in Cybersecurity℠ (CC)](https://www.credly.com/badges/de8139e8-5a3e-4ad8-b50b-9eedda79e092/public_url)
     - <b> Credential ID: 1496053 </b>
     - <b> Issued by (ISC)² </b>
