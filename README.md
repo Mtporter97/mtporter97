@@ -56,7 +56,7 @@ I am a dedicated, detailed-oriented IT Professional who has a passion for Inform
 <h2>📃 Relevant Training:</h2>
 
 - <b>SentinelOne</b>
-  - <b> I have completed every SentinelOne University course currently offered in October,2023. I also have eight months of hands-on experience of managing SentinelOne, I am mostly self-taught besides SentinelOne University videos. </b>
+  - <b> I have completed every SentinelOne University course currently offered in October, 2023. I also have eight months of hands-on experience of managing SentinelOne, I am mostly self-taught besides SentinelOne University videos. </b>
 
 <h2>👨‍💻 Projects:</h2>
 
