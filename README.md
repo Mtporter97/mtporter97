@@ -18,8 +18,8 @@ I am a dedicated, detailed-oriented IT Professional who has a passion for Inform
 
  <h2>💼 Experience</h2>
  
- <b>- Information Technology Specialist
-  - [Avrem Technologies, LLC]()
+ <b>Information Technology Specialist
+  - Avrem Technologies, LLC
     - Full-time | March 2023 - October 2023 | Hybrid
 </b>
  <h2>📃 Certifications</h2>
