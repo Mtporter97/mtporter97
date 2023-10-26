@@ -7,11 +7,10 @@
 <p>My name is Matthew Porter, <a href="https://catalog.ysu.edu/undergraduate/colleges-programs/college-science-technology-engineering-mathematics/department-computer-science-information-systems/bsas-information-technology/">BSIT Information Technology</a>, <a href="https://www.linkedin.com/in/matthew-porter-ysu/">Graduate of Youngstown State University.</a></p>
   
 
- <h2>🌐 How to Reach Me:</h2>
+ <h2>🌐 How to Contact Me:</h2>
 
-  - <b> Primary Email: matthewporter@mtporterbusiness.com </b>
-  - <b> Secondary Email: mttporterbusiness@gmail.com </b>
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-porter-ysu/)
+  - <b> Email: mtporter1997@gmail.com </b>
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtporter97/)
   
   <h2>📃 Certifications</h2>
   
