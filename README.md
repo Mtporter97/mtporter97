@@ -11,12 +11,17 @@
 I am a dedicated, detailed-oriented IT Professional who has a passion for Information Security.</p>
   
 
- <h2>🌐 How to Contact Me:</h2>
+ <h2>🌐 How to Contact Me</h2>
 
   - <b> Email: mtporter1997@gmail.com </b>
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtporter97/)
+
+ <h2>💼 Experience</h2>
+  - <b>Information Technology Specialist</b>
+      <b>Avrem Technologies, LLC | Full-time | March 2023 - October 2023 | Hybrid </b>
+      
   
-  <h2>📃 Certifications</h2>
+ <h2>📃 Certifications</h2>
   
   - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/3a8ea6bd-f4d6-4740-90e2-430a9dbd870f/public_url)
     - <b> Credential ID: I635-6978 </b>
