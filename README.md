@@ -17,10 +17,11 @@ I am a dedicated, detailed-oriented IT Professional who has a passion for Inform
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtporter97/)
 
  <h2>💼 Experience</h2>
-- <p>Information Technology Specialist
+ 
+ <b>- Information Technology Specialist
   - [Avrem Technologies, LLC]()
     - Full-time | March 2023 - October 2023 | Hybrid
-</p>
+</b>
  <h2>📃 Certifications</h2>
   
   - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/3a8ea6bd-f4d6-4740-90e2-430a9dbd870f/public_url)
