@@ -27,10 +27,18 @@ I am a dedicated, detailed-oriented IT Professional who has a passion for Inform
   - [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/3a8ea6bd-f4d6-4740-90e2-430a9dbd870f/public_url)
     - <b> Credential ID: I635-6978 </b>
     - <b> Issued by Microsoft </b>
-  
+
   - [(ISC)² Certified in Cybersecurity℠ (CC)](https://www.credly.com/badges/de8139e8-5a3e-4ad8-b50b-9eedda79e092/public_url)
     - <b> Credential ID: 1496053 </b>
     - <b> Issued by (ISC)² </b>
+  
+  - [Fortinet Certified Associate Cybersecurity](https://www.credly.com/badges/d2968de4-c31f-4ca8-9a60-e1c1879c7766/public_url)
+    - <b> Credential ID: 7546881372MP </b>
+    - <b> Issued by Fortinet </b>
+
+ - [Fortinet Certified Fundamentals Cybersecurity](https://www.credly.com/badges/8af79776-d70b-419d-bbd9-ae573dfce0ac/public_url)
+    - <b> Credential ID: 9395096822MP </b>
+    - <b> Issued by Fortinet </b>
 
 - [NSE 1 Network Security Associate](https://drive.google.com/file/d/1ooIOChjfS2FdoPmHd6daNtyMtzJFv7KY/view?usp=share_link)
     - <b> Credential ID: P7n9WSYZFE </b>
