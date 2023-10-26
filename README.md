@@ -202,15 +202,6 @@ I am a dedicated, detailed-oriented IT Professional who has a passion for Inform
   
 - [Networking Devices and Initial Configuration](https://www.credly.com/badges/587cfa9b-bec3-40fe-844c-99f1f4861c00/public_url)
     - <b> Issued by Cisco </b>
-
-- [Cyber Security Base 2022]()
-    - <b> Issued by Research Group of the University of Helsinki </b>
-  
-- [Quality Assurance]()
-  - <b> Issued by freeCodeCamp </b>
-
-- [Information Security]()
-  - <b> Issued by freeCodeCamp </b>
   
 - [Google Analytics Individual Qualification]()
   - <b> Issued by Google </b>
