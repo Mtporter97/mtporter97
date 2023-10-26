@@ -134,19 +134,6 @@ I am a dedicated, detailed-oriented IT Professional who has a passion for Inform
         - <b>Configured Azure Sentinel (Microsoft's Cloud SIEM) workbook to display global attack data (RDP brute force) on world map according to physical location and magnitude of attacks.</b>
         - <b>This was done by using the free one year trial version of Azure.</b>
   
-- <b>Personal Home Media / Remote Access Server</b>
-  - <b>Personal Home Server</b>
-    - <b> Goals for project:
-      - Establish a home media server that anyone in my household can use.
-      - Create a on-site / in-house remote access server for friends and family to collaborate with me.
-      - implementing and maintaining security of Server once operational.
-        - ensuring no unauthorized access is permitted.
-      - A moderate amount of bulk storage is wanted.
-
-      This project is a backburner project and will be updated on a bi-annual basis.</b>
-  
-  - <u>Current Project Stage: Project planning & Scope.</u>
-  
 - <b>Computer Forensics' Project 1</b>
   - [Forensic Tool Research - PlainSight](https://docs.google.com/document/d/1m8c8X9zEKDNFKI5HjnEoHMTgUgBu05Zx/edit)
     - <b> Research paper detailing the Forensic tool known as PlainSight. </b>
