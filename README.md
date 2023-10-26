@@ -1,4 +1,4 @@
-<h1>Hello! ✌️🖖🤞🤙🤘🎓</h1>
+<h1>Hello! ✌️</h1>
 
 ![github-header-image](https://user-images.githubusercontent.com/121512491/211918632-227fb398-50cc-47c8-a68b-921124e9437d.png)
 
