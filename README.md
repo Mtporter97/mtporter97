@@ -51,7 +51,13 @@ I am a dedicated, detailed-oriented IT Professional who has a passion for Inform
 - [NSE 3 Network Security Associate](https://drive.google.com/file/d/13nO5p2wHnVwX0cTfmB4OB5D13IOAC1hr/view?usp=share_link)
     - <b> Credential ID: KVsGAlztJa </b>
     - <b> Issued by Fortinet </b>
-  
+
+
+<h2>📃 Relevant Training:</h2>
+
+- <b>SentinelOne</b>
+  - <b> I have completed every SentinelOne University course currently offered in October,2023. I also have eight months of hands-on experience of managing SentinelOne, I am mostly self-taught besides SentinelOne University videos. </b>
+
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Microsoft Learn</b>
@@ -166,9 +172,9 @@ I am a dedicated, detailed-oriented IT Professional who has a passion for Inform
  
 <h2>📃 Certificates</h2>
 
-- [Google IT Support](https://www.credly.com/badges/fcb79ac1-302a-4eea-8d6a-79b693bb4a30/public_url)
+- [Google IT Support Professional Certificate](https://www.credly.com/badges/fcb79ac1-302a-4eea-8d6a-79b693bb4a30/public_url)
      - <b> Issued by Coursera </b>
-     - <b> "Those who earn the Google IT Support Certificate have completed five-courses, developed by Google, that include hands-on, practice-based assessments and               are designed to prepare them for entry-level roles in IT support. They are competent in foundational skills, including troubleshooting and customer                     service, networking, operating systems, system administration, and security." </b>
+     - <b> "Those who earn the Google IT Support Certificate have completed five-courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in IT support. They are competent in foundational skills, including troubleshooting and customer service, networking, operating systems, system administration, and security." </b>
 
 - [CCNAv7: Introduction to Networks - Cisco Networking Academy 1](https://www.dropbox.com/s/hqccnngneolz399/MatthewPorter-Cisco%20Academy%201%20-certificate.pdf?dl=0)
     - <b> Issued by Cisco </b>
@@ -186,7 +192,7 @@ I am a dedicated, detailed-oriented IT Professional who has a passion for Inform
 - [Endpoint Detection and Response (EDR) - Foundation](https://drive.google.com/file/d/1ulq60Wc2BA4RzKvmQ26YMqpABQeePNop/view?usp=share_link)
     - <b> Issued by Qualys </b>
  
-- [Cybersecurity Pathway](https://www.credly.com/badges/33784579-0e94-43c9-a592-c4d895bb02f2/public_url)
+- [Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/33784579-0e94-43c9-a592-c4d895bb02f2/public_url)
     - <b> Issued by Cisco </b>
  
 - [Cybersecurity Essentials](https://www.credly.com/badges/883ee9a8-55c9-4010-af1b-d76d119dc825/public_url)
