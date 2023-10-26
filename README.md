@@ -20,7 +20,7 @@ I am a dedicated, detailed-oriented IT Professional who has a passion for Inform
  
  <b> - Information Technology Specialist
   - Avrem Technologies, LLC
-    - Full-time | March 2023 - October 2023 | Hybrid
+    - Full-time | March 2023 - October 2023, 8 months | Hybrid
 </b>
  <h2>📃 Certifications</h2>
   
